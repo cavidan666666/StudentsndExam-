@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\Traning at Home\Traning at Home\bin\Debug\Traning at Home.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Traning at Home\Traning at Home\bin\Debug\Traning at Home.exe
+c:\users\user\documents\visual studio 2017\Projects\Traning at Home\Traning at Home\bin\Debug\Traning at Home.pdb
+c:\users\user\documents\visual studio 2017\Projects\Traning at Home\Traning at Home\obj\Debug\Traning at Home.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\Traning at Home\Traning at Home\obj\Debug\Traning at Home.exe
+c:\users\user\documents\visual studio 2017\Projects\Traning at Home\Traning at Home\obj\Debug\Traning at Home.pdb
